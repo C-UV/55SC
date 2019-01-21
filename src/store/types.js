@@ -1,0 +1,9 @@
+export const VIEW_FOOT='VIEW_FOOT';
+export const VIEW_LOADING='VIEW_LOADING';
+export const UPDATE_FURIT='UPDATE_FURIT';
+export const UPDATE_COLD='UPDATE_COLD';
+export const UPDATE_MEAT='UPDATE_MEAT';
+export const ADD_ITEM='ADD_ITEM';
+export const REMOVE_ITEM='REMOVE_ITEM';
+export const CHANGE_ITEM='CHANGE_ITEM';
+export const CLEAR_BUYCAR='CLEAR_BUYCAR';
